@@ -1,0 +1,33 @@
+_repo: Yeast--a-Problem_10364
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kingsley, Charles
+    aliases:
+    - Kingsley, C. (Charles)
+    - Kingley, Charles
+    birthdate: 1819
+    deathdate: 1875
+    gutenberg_agent_id: '344'
+    url: http://www.gutenberg.org/2009/agents/344
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Kingsley
+description: A political and social novel commenting on Roman Catholicism and the
+  Oxford Movement, on celibacy, the game laws, bad landlords and bad sanitation, and
+  on the whole social system insofar as it kept England's agricultural labourer class
+  in poverty.
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10364'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Country life -- England -- Fiction'
+- !lcc 'PR'
+- !lcsh 'England -- Social conditions -- 19th century -- Fiction'
+- !lcsh 'Rural poor -- England -- Fiction'
+- GITenberg
+title: 'Yeast: a Problem'
+url: http://www.gutenberg.org/ebooks/10364
